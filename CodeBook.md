@@ -36,13 +36,19 @@ General description of the file including:
   - Colums: 81
  
 - Summary of the data
-  - labelname - Factor w/ 6 levels "LAYING","SITTING","WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","STANDING"
+  - labelname: (Activity name) Factor w/ 6 levels 
+    - "LAYING"
+    - "SITTING"
+    - "WALKING"
+    - "WALKING_UPSTAIRS"
+    - "WALKING_DOWNSTAIRS"
+    - "STANDING"
   - subject - integer from 1 to 30
-  - (remaining columns) - numeric
+  - (remaining variables) - numeric
 
 - Variables present in the dataset
  
-  * labelname (Activity)
+  * labelname
   * subject
   * tBodyAcc-mean()-X
   * tBodyAcc-mean()-Y
