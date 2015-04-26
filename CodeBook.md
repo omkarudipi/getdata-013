@@ -8,6 +8,7 @@ date: "26 April 2015"
  
 ## Project Description
 Source: Human Activity Recognition Using Smartphones Data Set
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
  
 ##Study design and data processing
