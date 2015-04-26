@@ -1,5 +1,7 @@
 ---
-Title: "Codebook - Human Activity Recognition Using Smartphones Data Set: Independent tidy data set with the average of each variable for each activity and each subject" (Coursera - GetData-013)
+Title: "Codebook - Human Activity Recognition Using Smartphones Data Set: 
+    Independent tidy data set with the average of each variable for each activity and each subject" 
+    (Coursera - GetData-013)
 author: "Omkar Udipi"
 date: "26 April 2015"
 ---
